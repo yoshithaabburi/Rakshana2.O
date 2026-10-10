@@ -1,0 +1,86 @@
+{
+  "app_name": "Rakshana 24/7",
+  "tagline": "Proactive Digital Safety for Women",
+  "motto": "Light that travels ahead of the harm.",
+
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "alerts": "Alerts",
+    "settings": "Settings",
+    "legal_rights": "Legal Rights",
+    "report": "Anonymous Report",
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out",
+    "get_protected": "Get Protected"
+  },
+
+  "dashboard": {
+    "protection_status": "Protection Status",
+    "safe": "Safe",
+    "protected": "PROTECTED",
+    "watching": "Watching",
+    "alert": "Alert",
+    "critical": "Critical",
+    "last_scan": "Last scan",
+    "minutes_ago": "minutes ago",
+    "hours_ago": "hours ago",
+    "recent_activity": "RECENT ACTIVITY",
+    "scan_clear": "scan — Clear",
+    "threat_detected": "Threat Detected",
+    "no_threats": "No threats found"
+  },
+
+  "alerts": {
+    "title": "Alerts",
+    "no_alerts": "No alerts. Your digital presence is safe.",
+    "threat_score": "Threat Score",
+    "detected_at": "Detected",
+    "source": "Source",
+    "actions": {
+      "screenshot": "Screenshot & Save Evidence",
+      "file_report": "File Anonymous Report",
+      "notify_contact": "Notify Trusted Contact",
+      "dismiss": "Dismiss"
+    }
+  },
+
+  "report": {
+    "title": "Anonymous Report",
+    "subtitle": "Your report is encrypted end-to-end.",
+    "incident_type": "Type of Incident",
+    "platform": "Platform / Channel",
+    "description": "Describe what happened",
+    "evidence": "Evidence URLs (optional)",
+    "submit": "Submit Anonymous Report",
+    "privacy_note": "We do not collect IP addresses or device identifiers. Reports are forwarded anonymously to the National Cyber Crime Portal.",
+    "success": "Report submitted. Save your anonymous token.",
+    "token_label": "Your Anonymous Token"
+  },
+
+  "legal": {
+    "title": "Know Your Rights. Know the Law.",
+    "subtitle": "Every Indian woman has legal protection against cyber crimes.",
+    "search_placeholder": "Search laws by topic…",
+    "punishment": "Punishment",
+    "helplines": "Emergency Helplines"
+  },
+
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "scan_interval": "Scan Interval",
+    "trusted_contacts": "Trusted Contacts",
+    "export_data": "Export My Data",
+    "delete_account": "Delete Account",
+    "delete_warning": "This action is permanent. All your data will be permanently deleted."
+  },
+
+  "errors": {
+    "required_field": "This field is required",
+    "invalid_email": "Please enter a valid email",
+    "password_short": "Password must be at least 8 characters",
+    "network_error": "Network error. Please try again.",
+    "server_error": "Server error. Please try again later."
+  }
+}

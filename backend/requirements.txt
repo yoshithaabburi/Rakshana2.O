@@ -1,0 +1,47 @@
+# ============================================
+# RAKSHANA 24/7 — Backend Dependencies
+# ============================================
+
+# --- Core Framework ---
+Flask==3.1.0
+flask-cors==5.0.1
+flask-socketio==5.5.1
+
+# --- Database ---
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.36
+sqlalchemy-utils==0.41.2
+
+# --- Authentication ---
+Flask-JWT-Extended==4.7.1
+PyJWT==2.10.1
+
+# --- Task Queue ---
+celery[redis]==5.4.0
+redis==5.2.1
+
+# --- Telegram Monitoring ---
+Telethon==1.38.1
+
+# --- Web Scraping ---
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.3.0
+
+# --- NLP / Threat Scoring ---
+nltk==3.9.1
+# spacy==3.8.4  # Optional: heavier but better NER
+
+# --- Encryption ---
+cryptography==44.0.0
+
+# --- Utilities ---
+python-dotenv==1.0.1
+gunicorn==23.0.0
+eventlet==0.37.0
+Pillow==11.1.0
+marshmallow==3.23.2
+
+# --- Password Hashing ---
+bcrypt==4.2.1
+flask-limiter
